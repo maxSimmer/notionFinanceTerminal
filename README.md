@@ -20,6 +20,7 @@ A test project designed and built with Claude but directed by me. Wanted to see 
 - The terminal client turned out great.
 - STRONG focus on manual entry versus automation - could easily hook this up to an API or banking app to pull everything.
 
-
+![Terminal Image](images/terminal.png)
+*example image of the terminal and its commands*
 
 
