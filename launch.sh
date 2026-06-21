@@ -1,5 +1,5 @@
-#!/bin/bash
-#! point at budget.py for single file execution
+# startup script
+# create desktop shortcut attached to this script
 cd /home/max/Projects/notionFinance
 source /home/max/budget-env/bin/activate
 python3 -m terminalSplit
